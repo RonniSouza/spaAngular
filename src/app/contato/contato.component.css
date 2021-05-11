@@ -1,0 +1,29 @@
+body{
+    background: rgb(229, 246, 252);
+    border-radius: 0%;
+}
+
+header h1{
+    padding: 3rem;
+    text-align: center;
+}
+
+article img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 36rem;
+}
+
+.button{
+    padding: 1rem;
+    margin-left: 36rem;
+    display: inline;
+    float: left;
+}
+
+div{
+    display: inline-block;
+    padding: 5px;
+}

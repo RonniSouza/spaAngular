@@ -1,0 +1,25 @@
+body{
+    background: rgb(229, 246, 252);
+    border-radius: 0%;
+}
+
+header h2{
+    padding: 4rem;
+    text-align: center;
+}
+p{
+    padding-left: 1rem;
+    font-size: 26px;
+}
+div ul li{
+    margin-top: 1rem;
+    font-family: monospace;
+    clear: left;
+}
+
+img {
+    margin-top: 10px;
+    align-items: center;
+    margin-right: 36rem;
+    float: right;
+}

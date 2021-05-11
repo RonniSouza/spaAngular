@@ -1,0 +1,40 @@
+.titulo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+mat-card {
+    background: rgb(175, 199, 243);
+}
+
+body {
+    background: rgb(229, 246, 252);
+
+    height:10%; 
+    width:100%;
+ }
+
+.selected {
+    font-weight: bold;
+}
+
+nav {
+    text-decoration: none;
+    background: rgb(229, 246, 252);
+}
+
+nav a{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 20px;
+    margin-left: 10px;
+    border-radius: 10;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+    font-size: 15px;
+    position: relative;
+    float: left;
+}
